@@ -29,7 +29,7 @@ section {
   align-items: center;
   width: 50em;
   height: 40em;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 p {
   text-align: center;

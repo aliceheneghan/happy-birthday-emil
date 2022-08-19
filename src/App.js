@@ -27,20 +27,10 @@ function App() {
           <p>Naglaa - Happy Birthday Emil</p>
           <p>Sangeetha - Happy Birthday Emil </p>
           <p>Alice - maybe for your birthday, the rain can gift you with a rainbow. Enjoy your day!</p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-
+          <p>Waseem - Happy Birthday Emil !! Wish you a great year in advance</p>
+          <p>Christoforos - happy birthday emil!!! wish you the best !!!</p>
+          <p>Ahmad - I wish you have a peaceful life with success and No Morning Questions. Happy birthday</p>
+          <p>Lorenz - Alles Gute zum Geburtstag Emil! Möge der Regen, der auf dein Hirngehäuse trommelt, nicht sauer sein.</p>
         </div>
       </section>
     </div>

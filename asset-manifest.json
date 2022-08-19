@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/happy-birthday-emil/static/css/main.412af503.css",
+    "main.js": "/happy-birthday-emil/static/js/main.3e007201.js",
+    "static/media/rain2.jpg": "/happy-birthday-emil/static/media/rain2.2c7ec3ab333b0431f337.jpg",
+    "index.html": "/happy-birthday-emil/index.html",
+    "main.412af503.css.map": "/happy-birthday-emil/static/css/main.412af503.css.map",
+    "main.3e007201.js.map": "/happy-birthday-emil/static/js/main.3e007201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412af503.css",
+    "static/js/main.3e007201.js"
+  ]
+}
